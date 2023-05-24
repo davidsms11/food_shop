@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food_shop.github.io/static/css/main.f1781a38.css",
+    "main.js": "/food_shop.github.io/static/js/main.2070c71a.js",
+    "index.html": "/food_shop.github.io/index.html",
+    "main.f1781a38.css.map": "/food_shop.github.io/static/css/main.f1781a38.css.map",
+    "main.2070c71a.js.map": "/food_shop.github.io/static/js/main.2070c71a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1781a38.css",
+    "static/js/main.2070c71a.js"
+  ]
+}
